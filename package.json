@@ -60,5 +60,8 @@
     "bugs": {
         "url": "https://github.com/meliorence/react-native-snap-carousel/issues"
     },
-    "readmeFilename": "README.md"
+    "readmeFilename": "README.md",
+    "scripts": {
+        "prepare": "npm run build"
+    }
 }
